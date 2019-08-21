@@ -21432,7 +21432,7 @@ input[type="text"].c-input_text.p-emoji_picker__input:focus {
 }
 
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #d6d4cf;
+    color: tomato;
 }
 
 .c-message--dense .c-message__content_header .c-custom_status {
@@ -24963,7 +24963,7 @@ a.p-download_item__link--open, a.p-download_item__link--retry, a.p-download_item
 }
 
 .c-search_message--light .c-search_message__sender .c-search_message__sender_link {
-    color: #d6d4cf;
+    color: tomato;
 }
 
 .c-search_message--dense .c-search_message__content_header .c-custom_status {
